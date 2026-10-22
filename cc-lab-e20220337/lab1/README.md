@@ -1,6 +1,6 @@
 # Lab 1: Amazon EC2 Walkthrough and Web Solution Challenge
 
-**Student ID:** YOUR_ID  
+**Student ID:** e20220337  
 **Region:** us-east-1  
 
 ---
